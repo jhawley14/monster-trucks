@@ -1,0 +1,24 @@
+head {
+    text-decoration-line: line-through;
+    font-size: 2em;
+    
+    a:link: blue; 
+    a:visited: red solid; 
+    a:hover: blue 2p;
+    
+}
+    
+aside {
+    font-size: 4em;
+    font-family:'Anton', sans-serif;
+    color: Blue;
+    padding-left: 1px;
+}
+
+body {
+    margin: 25px;
+    padding-right: 5px;
+}
+main {
+    background: limegreen;
+} 
